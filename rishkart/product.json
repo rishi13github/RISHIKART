@@ -1,0 +1,119 @@
+[
+    {
+        "id": 1,
+        "name":" SAMSUNG GALAXY S-21",
+        "price": 40000,
+        "image": "images/10.webp"
+    },
+    {
+        "id": 2,
+        "name":" MOTOROLA G3 TURBO",
+        "price":20000 ,
+        "image": "images/MOTO.jpeg"
+    },
+    {
+        "id": 3,
+        "name":" IPHONE 14 PRO",
+        "price": 110000,
+        "image": "images/IPHONE.webp"
+    },
+    {
+        "id": 4,
+        "name":" GROOMING ESSENTIALS",
+        "price": 1099,
+        "image": "images/gmesse.webp"
+    },
+    {
+        "id": 5,
+        "name":" SILICON CASES",
+        "price": 300,
+        "image": "images/silicover.webp"
+    },
+    {
+        "id": 6,
+        "name":" PREMIUM ROUTERS",
+        "price": 1200,
+        "image": "images/router.webp"
+    },
+    {
+        "id": 7,
+        "name":" DESIGNER CASES",
+        "price": 600,
+        "image": "images/backcover.webp"
+    },
+    {
+        "id": 8,
+        "name":" HRX SHOES",
+        "price": 1200,
+        "image": "images/hrx.webp"
+    },
+    {
+        "id": 9,
+        "name":" ADIDAS SHOES",
+        "price": 3000,
+        "image": "images/adidas.webp"
+    },
+    {
+        "id": 10,
+        "name":" PREMIUM SHOES",
+        "price": 2000,
+        "image": "images/branded.webp"
+    },
+    {
+        "id": 11,
+        "name":" WOODLAND SHOES",
+        "price": 2000,
+        "image": "images/woodland.webp"
+    },
+    {
+        "id": 12,
+        "name":" LEHANGAS",
+        "price": 500,
+        "image": "images/dresses.webp"
+    },
+    {
+        "id": 13,
+        "name":" COTTON DRESSES",
+        "price": 1000,
+        "image": "images/dresses.webp"
+    },
+    {
+        "id": 14,
+        "name":" DESIGNER WEAR",
+        "price": 20000,
+        "image": "images/dresses.webp"
+    },
+    {
+        "id": 15,
+        "name":" SUMMER WEAR",
+        "price": 300,
+        "image": "images/dresses.webp"
+    },
+    {
+        "id": 16,
+        "name":" COTTON SHIRTS",
+        "price": 499,
+        "image": "images/reds.webp"
+    },
+    {
+        "id": 17,
+        "name":" PREMIUM SHIRTS",
+        "price": 1000,
+        "image": "images/pshirts.webp"
+    },
+    {
+        "id": 18,
+        "name":" CASUAL SHIRTS",
+        "price": 599,
+        "image": "images/fshirts.webp"
+    },
+    {
+        "id": 19,
+        "name":" JEANS FOR MEN",
+        "price": 799,
+        "image": "images/pjeans.webp"
+    }
+    
+
+
+]
